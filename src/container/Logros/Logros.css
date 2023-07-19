@@ -37,7 +37,7 @@
 @media screen and (max-width: 650px){
     .app__logros_awards-card{
         min-width: 100%;
-        margin: 1rem 0;
+        margin: 1rem 0 ;
     }
 }
 
